@@ -30,21 +30,6 @@ youtube_username                          :
 
 
 
-# Feature List                            Edit, add or remove features to be presented.
-features                                  :
-
-  - title                                 : View all cars and usage at one glance
-
-    
-  - title                                 : Track permit usage relative to permit expiry
-
-   
-
-  - title                                 : Make tracking your trips comfortable and fun
-
-
-
-
 
 # Theme Settings
 topbar_color                              : "#000000"
