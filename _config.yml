@@ -2,7 +2,7 @@
 page_title                                : Permit Tracker Pro                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                :                              # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1513056473                             # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             : https://apps.apple.com/au/app/permit-tracker-pro/id1513056473                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -13,7 +13,7 @@ app_icon                                  : assets/Icon.png                     
 app_name                                  : Permit Tracker Pro                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : $2.99                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Permit Tracker takes the frustration out of tracking and managing your club permit usage so that you can focus on driving! Pace your driving by easily tracking your trips against your permit expiry date to help plan ahead for longer drives. 
-enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
+enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
